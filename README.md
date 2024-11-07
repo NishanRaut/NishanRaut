@@ -1,16 +1,83 @@
-## Hi there 👋
 
-<!--
-**nishanraut/nishanraut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="left">Hey 👋 What's up?</h1>
 
-Here are some ideas to get you started:
+<p align="left">My name is Nishan Raut, and I develop Web Applications.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"></p>
+
+<h2 align="left">About Me</h2>
+
+📚 I'm currently studying **BCA** and learning React.<br>🎯 My goal is to become a MERN stack developer.</p>
+
+<h2 align="left">I Code With</h2>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=karkianjan&color=blue" alt="Profile Views" />
+</p>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+</div>
+
+
+
+
+
+<h2 align="left">Connect with Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/anjan-karki-395791233/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" /></a>
+  <a href="https://github.com/karkianjan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub logo" /></a>
+  <br>📧 Reach me at: <a href="mailto:nisraut123@gmail.com">nisraut123@gmail.com</a>
+</p>
+
+<h2 align="left">Visit My Website</h2>
+
+<p align="left">
+  <a href="https://www.nishanraut.com.np/"><img src="https://img.shields.io/badge/Website-Visit%20Now-blue" alt="Website logo" /></a>
+</p>
+
+<h2 align="left">My CV</h2>
+
+<p align="left">
+ 
+</p>
+
+<!-- GitHub Trophies -->
+<h2 align="left">GitHub Trophies</h2>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishanraut&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanrau&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Top Languages -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanrau&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanrau&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
