@@ -74,10 +74,10 @@
 
 <!-- Top Languages -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanrau&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanraut&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- GitHub Stats -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanrau&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanraut&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
