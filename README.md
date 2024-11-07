@@ -69,7 +69,7 @@
 
 <!-- GitHub Streak -->
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanrau&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishanraut&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
